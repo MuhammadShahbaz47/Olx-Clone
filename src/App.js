@@ -1,11 +1,11 @@
-import React from 'react'
-import './App.css';
+import React from 'react';
+import AppRouter from './config/router'
 
 class App extends React.Component{
   render(){
     return(
       <div>
-        <h1>Shahbaz......</h1>
+        <AppRouter/>
       </div>
     )
   }
