@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/Olx-Clone/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Olx-Clone/static/js/main.ed044c0b.chunk.js",
-    "main.js.map": "/Olx-Clone/static/js/main.ed044c0b.chunk.js.map",
-    "runtime-main.js": "/Olx-Clone/static/js/runtime-main.8e93e8a9.js",
-    "runtime-main.js.map": "/Olx-Clone/static/js/runtime-main.8e93e8a9.js.map",
+    "main.css": "/Olx-Clone/static/css/main.97b1170e.chunk.css",
+    "main.js": "/Olx-Clone/static/js/main.dea30f5f.chunk.js",
+    "main.js.map": "/Olx-Clone/static/js/main.dea30f5f.chunk.js.map",
+    "runtime-main.js": "/Olx-Clone/static/js/runtime-main.82e4ecd6.js",
+    "runtime-main.js.map": "/Olx-Clone/static/js/runtime-main.82e4ecd6.js.map",
     "static/css/2.1a02f21c.chunk.css": "/Olx-Clone/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.60d0bbac.chunk.js": "/Olx-Clone/static/js/2.60d0bbac.chunk.js",
-    "static/js/2.60d0bbac.chunk.js.map": "/Olx-Clone/static/js/2.60d0bbac.chunk.js.map",
-    "static/js/3.6f32508e.chunk.js": "/Olx-Clone/static/js/3.6f32508e.chunk.js",
-    "static/js/3.6f32508e.chunk.js.map": "/Olx-Clone/static/js/3.6f32508e.chunk.js.map",
+    "static/js/2.4593e9e7.chunk.js": "/Olx-Clone/static/js/2.4593e9e7.chunk.js",
+    "static/js/2.4593e9e7.chunk.js.map": "/Olx-Clone/static/js/2.4593e9e7.chunk.js.map",
+    "static/js/3.9876e625.chunk.js": "/Olx-Clone/static/js/3.9876e625.chunk.js",
+    "static/js/3.9876e625.chunk.js.map": "/Olx-Clone/static/js/3.9876e625.chunk.js.map",
     "index.html": "/Olx-Clone/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/Olx-Clone/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/Olx-Clone/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.60d0bbac.chunk.js.LICENSE.txt": "/Olx-Clone/static/js/2.60d0bbac.chunk.js.LICENSE.txt"
+    "static/css/main.97b1170e.chunk.css.map": "/Olx-Clone/static/css/main.97b1170e.chunk.css.map",
+    "static/js/2.4593e9e7.chunk.js.LICENSE.txt": "/Olx-Clone/static/js/2.4593e9e7.chunk.js.LICENSE.txt",
+    "static/media/hero_bg_pk.52086e31.jpg": "/Olx-Clone/static/media/hero_bg_pk.52086e31.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e93e8a9.js",
+    "static/js/runtime-main.82e4ecd6.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.60d0bbac.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.ed044c0b.chunk.js"
+    "static/js/2.4593e9e7.chunk.js",
+    "static/css/main.97b1170e.chunk.css",
+    "static/js/main.dea30f5f.chunk.js"
   ]
 }
