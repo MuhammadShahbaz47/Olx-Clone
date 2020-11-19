@@ -36,7 +36,7 @@ class Header extends React.Component{
         
           <ul className="navbar-nav mr-auto ">
             <li className="nav-item space">
-            <a className="nav-link" href="#">Login</a>
+            <a className="nav-link login" href="#">Login</a>
             </li>
             <li className="nav-item space">
               <button className="sellBtn"><span className="plus">+</span>SELL</button>
@@ -48,5 +48,7 @@ class Header extends React.Component{
     )
   }
 }
+
+
 
 export default Header;
