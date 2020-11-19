@@ -5,9 +5,9 @@ import Home from '../pages/Home'
 class AppRouter extends React.Component{
     render(){
         return(
-            <Router>
-                <Route exact path="/" component={Home}></Route>
-            </Router>
+        <Router basename={`${process.env.PUBLIC_URL}/`}>
+            <Route exact path='/' component={Home}/>
+        </Router>
         )
     }
 }
