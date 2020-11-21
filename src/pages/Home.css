@@ -1,0 +1,12 @@
+.AppBanner{
+    background-color: rgb(245, 245, 245)
+    
+}
+.app-text{
+    font-size: 20px;
+    line-height: 24px;
+    padding-top: 10px;
+}
+.app-heading{
+    padding-top: 20px;
+}

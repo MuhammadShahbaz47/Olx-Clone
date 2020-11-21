@@ -29,3 +29,42 @@
 nav{
     text-align: center;
 }
+.login-btns{
+    border: 2px solid !important;
+    font-weight: 500 !important;
+}
+.login-btns:hover{
+    border: 5px solid !important;
+}
+.modal-dialog-size{
+    width: 600px !important;
+}
+.close{
+    outline: none !important;
+}
+.slide1,.slide2,.slide3{
+    padding-right:50px;
+    padding-left:50px;
+}
+.modal-header{
+    border:none  !important;
+}
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+}
+.modal-text-1{
+    font-size: small;
+}
+.modal-text-2{
+    color: rgba(0,47,52,.64);
+    font-size: 12px;
+}

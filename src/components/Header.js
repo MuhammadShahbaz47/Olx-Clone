@@ -1,6 +1,9 @@
 import React from 'react';
 import {Link} from "react-router-dom";
 import './Header.css'
+import slide1 from '../Images/1.PNG'
+import slide2 from '../Images/2.PNG'
+import slide3 from '../Images/3.PNG'
 
 class Header extends React.Component{
   render(){
@@ -36,7 +39,7 @@ class Header extends React.Component{
         
           <ul className="navbar-nav mr-auto ">
             <li className="nav-item space">
-            <a className="nav-link login" href="#">Login</a>
+            <a data-toggle="modal" data-target=".bd-example-modal-sm" className="nav-link login " href="#">Login</a>
             </li>
             <li className="nav-item space">
               <button className="sellBtn"><span className="plus">+</span>SELL</button>
@@ -44,6 +47,67 @@ class Header extends React.Component{
           </ul>
         </div>
         </div>
+
+        {/* LOGIN MODAL FORM START */}
+
+        <div className="modal fade bd-example-modal-sm" tabIndex={-1} role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+        <div className="modal-dialog">
+          <div className="modal-content">
+              <div className="modal-header text-center">
+                <button type="button" className="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">✕</span>
+                </button>
+              </div>
+              <div id="carousel-example-1z" className="carousel slide carousel-fade" data-ride="carousel">
+        <ol className="carousel-indicators">
+          <li data-target="#carousel-example-1z" data-slide-to={0} className="active" />
+          <li data-target="#carousel-example-1z" data-slide-to={1} />
+          <li data-target="#carousel-example-1z" data-slide-to={2} />
+        </ol>
+        <div className="carousel-inner" role="listbox">
+          <div className="carousel-item active">
+            <img className="d-block w-100 slide1" src={slide1} alt="First slide" />
+          </div>
+          <div className="carousel-item">
+            <img className="d-block w-100 slide2" src={slide2} alt="Second slide" />
+          </div>
+          <div className="carousel-item">
+            <img className="d-block w-100 slide3" src={slide3} alt="Third slide" />
+          </div>
+        </div>
+        <a className="carousel-control-prev" href="#carousel-example-1z" role="button" data-slide="prev">
+          <span className="carousel-control-prev-icon" aria-hidden="true" />
+          <span className="sr-only">Previous</span>
+        </a>
+        <a className="carousel-control-next" href="#carousel-example-1z" role="button" data-slide="next">
+          <span className="carousel-control-next-icon" aria-hidden="true" />
+          <span className="sr-only">Next</span>
+        </a>
+      </div>
+              <div className="modal-body mx-3">
+                <div className="md-form mb-2">
+                <button className="btn btn-lg btn-block login-btns">Continue with phone</button>
+                </div>
+                <div className="md-form mb-2">
+                <button className="btn btn-lg btn-block login-btns">Continue with facebook</button>
+                </div>
+                <div className="md-form mb-2">
+                <button className="btn btn-lg btn-block login-btns">Continue with google</button>
+                </div>
+                <div className="md-form mb-2">
+                <button className="btn btn-lg btn-block login-btns">Continue with email</button>
+                </div>
+              </div>
+              <div>
+                <p className="modal-text-1">We won't share your personal details with anyone</p>
+                <p className="modal-text-2">If you continue, you are accepting <a href="#">OLX Terms and Conditions and Privacy Policy</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* LOGIN MODAL FORM END */}
+
       </nav>
     )
   }

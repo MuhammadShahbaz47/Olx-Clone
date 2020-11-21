@@ -7,6 +7,7 @@ class AppRouter extends React.Component{
         return(
         <Router basename={`${process.env.PUBLIC_URL}/`}>
             <Route exact path='/' component={Home}/>
+            
         </Router>
         )
     }
