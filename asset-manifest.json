@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/Olx-Clone/static/css/main.cc093ed1.chunk.css",
-    "main.js": "/Olx-Clone/static/js/main.82e8b743.chunk.js",
-    "main.js.map": "/Olx-Clone/static/js/main.82e8b743.chunk.js.map",
-    "runtime-main.js": "/Olx-Clone/static/js/runtime-main.f3f03efc.js",
-    "runtime-main.js.map": "/Olx-Clone/static/js/runtime-main.f3f03efc.js.map",
+    "main.css": "/Olx-Clone/static/css/main.6e423b7f.chunk.css",
+    "main.js": "/Olx-Clone/static/js/main.87b5e9a2.chunk.js",
+    "main.js.map": "/Olx-Clone/static/js/main.87b5e9a2.chunk.js.map",
+    "runtime-main.js": "/Olx-Clone/static/js/runtime-main.943d9fb7.js",
+    "runtime-main.js.map": "/Olx-Clone/static/js/runtime-main.943d9fb7.js.map",
     "static/css/2.1a02f21c.chunk.css": "/Olx-Clone/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.1bc0850d.chunk.js": "/Olx-Clone/static/js/2.1bc0850d.chunk.js",
-    "static/js/2.1bc0850d.chunk.js.map": "/Olx-Clone/static/js/2.1bc0850d.chunk.js.map",
-    "static/js/3.71a00bee.chunk.js": "/Olx-Clone/static/js/3.71a00bee.chunk.js",
-    "static/js/3.71a00bee.chunk.js.map": "/Olx-Clone/static/js/3.71a00bee.chunk.js.map",
+    "static/js/2.28fc7c34.chunk.js": "/Olx-Clone/static/js/2.28fc7c34.chunk.js",
+    "static/js/2.28fc7c34.chunk.js.map": "/Olx-Clone/static/js/2.28fc7c34.chunk.js.map",
+    "static/js/3.8fcaeb40.chunk.js": "/Olx-Clone/static/js/3.8fcaeb40.chunk.js",
+    "static/js/3.8fcaeb40.chunk.js.map": "/Olx-Clone/static/js/3.8fcaeb40.chunk.js.map",
     "index.html": "/Olx-Clone/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/Olx-Clone/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.cc093ed1.chunk.css.map": "/Olx-Clone/static/css/main.cc093ed1.chunk.css.map",
-    "static/js/2.1bc0850d.chunk.js.LICENSE.txt": "/Olx-Clone/static/js/2.1bc0850d.chunk.js.LICENSE.txt",
-    "static/media/hero_bg_pk.52086e31.jpg": "/Olx-Clone/static/media/hero_bg_pk.52086e31.jpg"
+    "static/css/main.6e423b7f.chunk.css.map": "/Olx-Clone/static/css/main.6e423b7f.chunk.css.map",
+    "static/js/2.28fc7c34.chunk.js.LICENSE.txt": "/Olx-Clone/static/js/2.28fc7c34.chunk.js.LICENSE.txt",
+    "static/media/1.bbb376ce.PNG": "/Olx-Clone/static/media/1.bbb376ce.PNG",
+    "static/media/2.4f210403.PNG": "/Olx-Clone/static/media/2.4f210403.PNG",
+    "static/media/3.4deece06.PNG": "/Olx-Clone/static/media/3.4deece06.PNG",
+    "static/media/hero_bg_pk.52086e31.jpg": "/Olx-Clone/static/media/hero_bg_pk.52086e31.jpg",
+    "static/media/phone-app.04c5d659.png": "/Olx-Clone/static/media/phone-app.04c5d659.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3f03efc.js",
+    "static/js/runtime-main.943d9fb7.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.1bc0850d.chunk.js",
-    "static/css/main.cc093ed1.chunk.css",
-    "static/js/main.82e8b743.chunk.js"
+    "static/js/2.28fc7c34.chunk.js",
+    "static/css/main.6e423b7f.chunk.css",
+    "static/js/main.87b5e9a2.chunk.js"
   ]
 }
