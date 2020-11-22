@@ -1,6 +1,6 @@
 import React from 'react';
 import {connect} from 'react-redux';
-import {set_data,facebook_login} from '../store/action';
+import {set_data,facebook_login, google_login} from '../store/action';
 import {Link} from "react-router-dom";
 import './Header.css'
 import slide1 from '../Images/1.PNG'
@@ -94,7 +94,7 @@ class Header extends React.Component{
                 <button onClick={() => this.props.facebook_login()} className="btn btn-lg btn-block login-btns">Continue with facebook</button>
                 </div>
                 <div className="md-form mb-2">
-                <button className="btn btn-lg btn-block login-btns">Continue with google</button>
+                <button onClick={() => this.props.google_login()} className="btn btn-lg btn-block login-btns">Continue with google</button>
                 </div>
                 <div className="md-form mb-2">
                 <button className="btn btn-lg btn-block login-btns">Continue with email</button>
@@ -120,7 +120,8 @@ const mapStateToProps=(state)=>({
 })
 const mapDispatchToProp=(dispatch)=>({
     set_data: (data) => dispatch(set_data(data)),
-    facebook_login: () => dispatch(facebook_login())
+    facebook_login: () => dispatch(facebook_login()),
+    google_login: () => dispatch(google_login()),
 })
 
 export default connect(mapStateToProps,mapDispatchToProp) (Header);
