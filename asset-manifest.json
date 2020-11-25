@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Olx-Clone/static/css/main.6e423b7f.chunk.css",
-    "main.js": "/Olx-Clone/static/js/main.89e784a4.chunk.js",
-    "main.js.map": "/Olx-Clone/static/js/main.89e784a4.chunk.js.map",
-    "runtime-main.js": "/Olx-Clone/static/js/runtime-main.7f729df6.js",
-    "runtime-main.js.map": "/Olx-Clone/static/js/runtime-main.7f729df6.js.map",
+    "main.css": "/Olx-Clone/static/css/main.6be1e614.chunk.css",
+    "main.js": "/Olx-Clone/static/js/main.c5138c66.chunk.js",
+    "main.js.map": "/Olx-Clone/static/js/main.c5138c66.chunk.js.map",
+    "runtime-main.js": "/Olx-Clone/static/js/runtime-main.49b4ca47.js",
+    "runtime-main.js.map": "/Olx-Clone/static/js/runtime-main.49b4ca47.js.map",
     "static/css/2.1a02f21c.chunk.css": "/Olx-Clone/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.bb2fad36.chunk.js": "/Olx-Clone/static/js/2.bb2fad36.chunk.js",
-    "static/js/2.bb2fad36.chunk.js.map": "/Olx-Clone/static/js/2.bb2fad36.chunk.js.map",
-    "static/js/3.9f5e4ea3.chunk.js": "/Olx-Clone/static/js/3.9f5e4ea3.chunk.js",
-    "static/js/3.9f5e4ea3.chunk.js.map": "/Olx-Clone/static/js/3.9f5e4ea3.chunk.js.map",
+    "static/js/2.43b4b31a.chunk.js": "/Olx-Clone/static/js/2.43b4b31a.chunk.js",
+    "static/js/2.43b4b31a.chunk.js.map": "/Olx-Clone/static/js/2.43b4b31a.chunk.js.map",
+    "static/js/3.36db6e86.chunk.js": "/Olx-Clone/static/js/3.36db6e86.chunk.js",
+    "static/js/3.36db6e86.chunk.js.map": "/Olx-Clone/static/js/3.36db6e86.chunk.js.map",
     "index.html": "/Olx-Clone/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/Olx-Clone/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.6e423b7f.chunk.css.map": "/Olx-Clone/static/css/main.6e423b7f.chunk.css.map",
-    "static/js/2.bb2fad36.chunk.js.LICENSE.txt": "/Olx-Clone/static/js/2.bb2fad36.chunk.js.LICENSE.txt",
+    "static/css/main.6be1e614.chunk.css.map": "/Olx-Clone/static/css/main.6be1e614.chunk.css.map",
+    "static/js/2.43b4b31a.chunk.js.LICENSE.txt": "/Olx-Clone/static/js/2.43b4b31a.chunk.js.LICENSE.txt",
     "static/media/1.bbb376ce.PNG": "/Olx-Clone/static/media/1.bbb376ce.PNG",
     "static/media/2.4f210403.PNG": "/Olx-Clone/static/media/2.4f210403.PNG",
     "static/media/3.4deece06.PNG": "/Olx-Clone/static/media/3.4deece06.PNG",
@@ -21,10 +21,10 @@
     "static/media/phone-app.04c5d659.png": "/Olx-Clone/static/media/phone-app.04c5d659.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f729df6.js",
+    "static/js/runtime-main.49b4ca47.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.bb2fad36.chunk.js",
-    "static/css/main.6e423b7f.chunk.css",
-    "static/js/main.89e784a4.chunk.js"
+    "static/js/2.43b4b31a.chunk.js",
+    "static/css/main.6be1e614.chunk.css",
+    "static/js/main.c5138c66.chunk.js"
   ]
 }
