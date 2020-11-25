@@ -1,0 +1,13 @@
+.price{
+    font-weight: bold !important;
+    font-size: 20px;
+}
+.card-img-top {
+    width: 100%;
+    height: 150px;
+    object-fit: scale-down;
+    
+}
+.card{
+    cursor: pointer;
+}

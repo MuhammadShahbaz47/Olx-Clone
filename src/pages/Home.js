@@ -4,6 +4,7 @@ import Header2 from '../components/HeaderMenu'
 import Banner from '../Images/hero_bg_pk.jpg'
 import Footer from '../components/Footer'
 import AppBanner from '../Images/phone-app.png'
+import Content from '../components/Content'
 import './Home.css'
 
 class Home extends React.Component{
@@ -13,7 +14,8 @@ class Home extends React.Component{
         <Header/>
         <Header2/>
         <img src={Banner} className="img-fluid" alt="Responsive img"></img>
-        <div className="Container AppBanner">
+        <Content/>
+        <div className="container-fluid AppBanner">
           <div className="row">
             <div className="col-sm-5">
           <img src={AppBanner} className="img-fluid" alt="Responsive img"></img>

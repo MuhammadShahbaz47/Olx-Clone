@@ -10,7 +10,7 @@ import slide3 from '../Images/3.PNG'
 class Header extends React.Component{
   render(){
     return(
-        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-light bg-light ">
         <div className="container-fluid">
 
         <Link to="/" className="navbar-brand">Shopx</Link>
@@ -41,7 +41,7 @@ class Header extends React.Component{
         
           <ul className="navbar-nav mr-auto ">
             <li className="nav-item space">
-            <a data-toggle="modal" data-target=".bd-example-modal-sm" className="nav-link login " href="#">Login</a>
+            <a data-toggle="modal" data-target=".bd-example-modal-sm" className="nav-link login" href="#">Login</a>
             </li>
             <li className="nav-item space">
               <button className="sellBtn"><span className="plus">+</span>SELL</button>
